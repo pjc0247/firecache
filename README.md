@@ -1,4 +1,4 @@
 firecache
 ====
 
-FirestoreDB cache for non-realtime documents.
+FirestoreDB cache for non-realtime(> 1mins) documents.
